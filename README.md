@@ -1,9 +1,9 @@
 # Health-Insurance-Premium
 
 
-The purposes of this exercise to look into different features to observe their relationship, and plot a multiple linear regression based on several features of individual such as age, physical/family condition and location against their existing medical expense to be used for predicting future medical expenses of individuals that help medical insurance to make decision on charging the premium.
+The purposes of this exercise is to look into different features to observe their relationship, and plot a multiple linear regression based on several features of individual such as age, physical/family condition and location against their existing medical expense to be used for predicting future medical expenses of individuals that help medical insurance to make decision on charging the premium.
 
-An important part of this project is to look at the exploratory data analysis in via the Uni-variate Analysis from which we have drawn the following conclusions:
+An important part of this project is to look at the Exploratory Data analysis via the Uni-variate Analysis from which we have drawn the following conclusions:
 
 In Fig 1,we can clearly see here that the distribution of expenses is rightly skewed and they show a variation ranging from $ 1121 to $ 63770 in the given plot for a dataset of 1338 current health insurers.
 
@@ -29,5 +29,5 @@ In Fig 10,for the age-expenses plot we see that smokers tend to pay more than no
 
 In Fig 11, for the bmi-expenses plot  we see that smokers pay more than non-smokers but here the line slope is much higher, resulting in a massive medical expenses increase when the bmi raises.The scatterplot above suggests that body mass index (BMI) and expenses are positively correlated, where customers with higher BMI typically also tend to pay more in insurance premium.
 
-Sailing through the feature engineering which included label encoding categorical variables, and feature scaling to standarise the data we tested the dataset on five models of Random Forest Regressor, Gradient Boosting Regressor, KNeighbours Regressor, Decision Tree Regressor & Linear Regression from whihc Random Forest Classifier seemed to be the best model with test accuracy of 90 percent and MSE of 3957.90
+Sailing through the feature engineering which included label encoding categorical variables, and feature scaling to standarise the data we tested the dataset on five models of Random Forest Regressor, Gradient Boosting Regressor, KNeighbours Regressor, Decision Tree Regressor & Linear Regression from which Random Forest Classifier seemed to be the best model with test accuracy of 90 percent and MSE of 3957.90
 
