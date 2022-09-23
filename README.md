@@ -1,7 +1,7 @@
 # Health-Insurance-Premium
 
 
-The purposes of this exercise is to look into different features to observe their relationship, and plot a multiple linear regression based on several features of individual such as age, physical/family condition and location against their existing medical expense to be used for predicting future medical expenses of individuals that help medical insurance to make decision on charging the premium.
+The purposes of this exercise is to look into different features to observe their relationship, and plot a multiple linear regression based on several features of individual such as age, physical/family condition and location to be used for predicting the cost of health insurance premium for the individuals owing to thier health situation.
 
 An important part of this project is to look at the Exploratory Data analysis via the Uni-variate Analysis from which we have drawn the following conclusions:
 
